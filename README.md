@@ -1,4 +1,0 @@
-test
-====
-
-Repository di test.
